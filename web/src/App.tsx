@@ -1,9 +1,11 @@
-function App() {
+import { Widget } from "./components/Widget";
+
+export function App() {
   return (
-    <div className="bg-red-500">
-      Hello World
+    <div>
+      <Widget/>
     </div>
   )
 }
 
-export default App
+

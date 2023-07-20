@@ -65,11 +65,11 @@ export function WidgetForm() {
         Feito com ♥ por{' '}
         <a
           className="underline underline-offset-2"
-          href="https://github.com/vitorhonna/nlw-return-impulse"
+          href="https://github.com/Jones-bass"
           target="_blank"
           rel="noreferrer"
         >
-          Vitor Honna
+          Jones Souza
         </a>
       </footer>
     </div>
